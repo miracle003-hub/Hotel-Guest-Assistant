@@ -2,7 +2,7 @@
 
 An automation built in Zapier that reads each guest form response, sorts it by type, and replies to the guest through both Gmail and WhatsApp, with no one typing the replies by hand.
 
-![Hotel Guest Assistant Zap in the Zapier editor](hotel-guest-assistant-zap.png)
+!(https://github.com/miracle003-hub/Hotel-Guest-Assistant/blob/main/zap2e.png)
 
 ## The problem
 
