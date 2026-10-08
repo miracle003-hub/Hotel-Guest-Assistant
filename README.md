@@ -10,6 +10,7 @@ Hotel guests send booking confirmations, general questions and urgent complaints
 
 ## How it works
 
+
 1. **Trigger:** a guest submits the Hotel Guest Assistant Google Form (Google Forms, *New Form Response*).
 2. **Sort:** a *Paths* step splits every response into one of three paths using path conditions:
    - **Confirmed Booking**
